@@ -10,6 +10,6 @@ Also i used [**IMDB API**](https://imdb-api.com/api) and downloaded a simple Dat
 In my project i imported that file and with **OMDBAPI** fetched data from 5 randomly selected ID and sorted them by their **IMDBRating**s. 
 And finally saved them in **IMDB_Sorted_based_on_imdbRating.txt**.
 
-# Author
+## Author
 Amir Mohammad Ghiasi
 
