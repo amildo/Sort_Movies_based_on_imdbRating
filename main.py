@@ -3,10 +3,10 @@ from API_Search import get_movie_data
 import time
 import json
 
-# Import Movies Id
+# Import ID of movies
 with open("MoviesIMDB_Id.txt") as myfile:
     data = [item.strip() for item in myfile.readlines()]
-# Select 5 ids randomly without replacement
+# Select 5 id randomly without replacement
 data_Id = random.sample(data, k=5)
 
 # Fetch every movie data by calling get_movie_data and storing in DataSet
