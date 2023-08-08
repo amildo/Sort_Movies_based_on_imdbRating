@@ -1,0 +1,8 @@
+[["Star Wars: Episode V - The Empire Strikes Back", "8.7"], ["The Pianist", "8.5"], ["Dead Poets Society", "8.1"], ["Amores Perros", "8.1"], ["The General", "8.1"]]
+<===================================================>
+[["Lawrence of Arabia", "8.3"], ["The Passion of Joan of Arc", "8.2"], ["Pan's Labyrinth", "8.2"], ["The Secret in Their Eyes", "8.2"], ["The Grand Budapest Hotel", "8.1"]]
+<===================================================>
+[["Pulp Fiction", "8.9"], ["Apocalypse Now", "8.4"], ["Into the Wild", "8.1"], ["Amores Perros", "8.1"], ["The Battle of Algiers", "8.1"]]
+<===================================================>
+[["The Godfather Part II", "9.0"], ["Life Is Beautiful", "8.6"], ["WALL\u00b7E", "8.4"], ["The Wages of Fear", "8.2"], ["Jaws", "8.1"]]
+<===================================================>
