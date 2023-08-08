@@ -1,6 +1,0 @@
-[["Spider-Man: Into the Spider-Verse", "8.4"], ["A Clockwork Orange", "8.3"], ["1917", "8.2"], ["A Beautiful Mind", "8.2"], ["The Grand Budapest Hotel", "8.1"]]
-<===================================================>
-[["The Thing", "8.2"], ["Howl's Moving Castle", "8.2"], ["No Country for Old Men", "8.2"], ["Dead Poets Society", "8.1"], ["Raging Bull", "8.1"]]
-<===================================================>
-[["Harakiri", "8.6"], ["Up", "8.3"], ["The Apartment", "8.3"], ["Chinatown", "8.2"], ["Dead Poets Society", "8.1"]]
-<===================================================>
